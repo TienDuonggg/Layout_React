@@ -1,0 +1,16 @@
+.header {
+    background-color: #212529;
+    border-top: 6px solid #dc392d;
+}
+
+.navbar-collapse{
+    flex-grow: 0;
+}
+
+.navbar>.container-fluid{
+    justify-content: space-around;
+}
+
+.header a{
+    color: #fff;
+}
